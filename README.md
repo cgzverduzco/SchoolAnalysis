@@ -1,5 +1,6 @@
 # School Analysis Challenge
-Challenge Module 4. 
+Phyton data frame from a CVS
+
 ## Overview of the school district analysis:
 Every year, the Py City´s school board analyzes their schools. This year the analysis was for the high schools, 9th to 12th grades. The key performance indicators are:
 
